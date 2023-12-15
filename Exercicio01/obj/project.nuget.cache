@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S93fdRQWYK9tXhscZuLqS3Wel5qqj42y5HfMBOqGWqXljOztLciIydxuaT1r65WaNWnQ8PFsQ0HkqGyKDEaVfg==",
+  "success": true,
+  "projectFilePath": "/home/zerocool/Projetos/Exercicio01/Exercicio01.csproj",
+  "expectedPackageFiles": [
+    "/home/zerocool/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
